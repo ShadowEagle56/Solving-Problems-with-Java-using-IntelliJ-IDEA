@@ -5,7 +5,7 @@ This assignment is to write the code from the lesson from scratch by following t
 Specifically, you should do the following:
 1. Create a new Java project named StringsFirstAssignments. You can put all the classes for this programming exercise in this project.
 2. Create a new Java Class named Part1. The following methods go in this class.
-3. . Write the method findSimpleGene that has one String parameter dna, representing a string of DNA. This method does the following:
+3. Write the method findSimpleGene that has one String parameter dna, representing a string of DNA. This method does the following:
 Finds the index position of the start codon “ATG”. If there is no “ATG”, return the empty string.
 Finds the index position of the first stop codon “TAA” appearing after the “ATG” that was found. If there is no such “TAA”, return the empty string. 
 If the length of the substring between the “ATG” and “TAA” is a multiple of 3, then return the substring that starts with that “ATG” and ends with that “TAA”.
