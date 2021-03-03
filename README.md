@@ -1,4 +1,4 @@
-# Solving Problems with Java
+# Solving Problems with Java using IntelliJ IDEA
 
 ## Part 1: Finding a Gene: Using the Simplified Algorithm
 
