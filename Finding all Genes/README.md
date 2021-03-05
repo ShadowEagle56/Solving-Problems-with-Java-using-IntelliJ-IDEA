@@ -33,6 +33,7 @@ Specifically, you should do the following:
 ## Part 3: How Many Genes?
 
 Write a program to count how many genes are in a strand of DNA.
+
 Specifically, you should do the following:
 
 1. Create a new Java Class named Part3.
