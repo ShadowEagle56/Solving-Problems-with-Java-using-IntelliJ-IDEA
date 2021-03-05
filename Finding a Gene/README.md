@@ -1,5 +1,3 @@
-# Solving Problems with Java using IntelliJ IDEA
-
 ## Part 1: Using the Simplified Algorithm
 
 1. Create a new Java Class named Part1. The following methods go in this class.
