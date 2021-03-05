@@ -1,6 +1,6 @@
 # Solving Problems with Java using IntelliJ IDEA
 
-## Part 1: Finding a Gene: Using the Simplified Algorithm
+## Part 1: Using the Simplified Algorithm
 
 1. Create a new Java Class named Part1. The following methods go in this class.
 2. Write the method findSimpleGene that has one String parameter dna, representing a string of DNA. This method does the following:
@@ -11,7 +11,7 @@ If the length of the substring between the “ATG” and “TAA” is a multiple
 - Print the DNA string. 
 - See if there is a gene by calling findSimpleGene with this string as the parameter. If a gene exists following our algorithm above, then print the gene, otherwise print the empty string.
 
-## Part 2: Finding a Gene: Using the Simplified Algorithm Reorganized
+## Part 2: Using the Simplified Algorithm Reorganized
 
 This part will determine if a DNA strand has a gene in it by using the simplified algorithm, but organizing the code in a slightly different way. Modify the method findSimpleGene to have three parameters, one for the DNA string, one for the start codon and one for the stop codon.
 Specifically, you should do the following:
